@@ -5,11 +5,11 @@ import { Card } from 'react-bootstrap'
 export default function Home() {
   return (
     <div >
-      <div className={styles.title} >
+      <div className={styles.title} ><center>
       <div className={styles.titletext}>
           LODESTAR INVESTMENTS 
            <p> HOLDING CORPORATION</p>  
-      </div>
+      </div></center>
     </div>
     <div className={styles.content}>
     <div className={styles.subcontent}> 

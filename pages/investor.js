@@ -263,7 +263,7 @@ const Investor = () => {
         </div> 
             <div >
             <hr/>
-                <Card.Img src="../orgchart.png" className={styles.img} />
+                <center><Card.Img src="../orgchart.png" className={styles.img}/></center>
             </div>
 
         </div>
