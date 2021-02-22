@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+
+.content{
+ background-color: white;
+ font-family: Georgia;
+}
+
+.title {
+  color: #333;
+  font-size: 40px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family: Georgia;
+
+}
+.title2 {
+  color: #333;
+  font-size: 20px;
+  font-family: Georgia;
+  text-align: center;
+  font-weight: bold;
+  
+}
+.text {
+  color: #333;
+  font-size: 15px;
+  text-align: center;
+  font-family: Georgia;
+}
+.text2 {
+  color: #333;
+  font-size: 15px;
+  font-family: Georgia;
+}
+
+.text4{
+  color: #333;
+  font-size: 20px;
+  font-family: Georgia;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.text5{
+  color: #333;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: justify;
+  font-family: Georgia;
+}
+.text6{
+    color: #333;
+    font-size: 20px;
+    font-family: Georgia;
+    text-align: center;
+    font-weight: bold;
+  }
+.text7{
+    color: #333;
+    font-size: 20px;
+    font-family: Georgia;
+    text-align: center
+  
+  }
+.headtag{
+    margin-top: 80px;
+    text-align: center;
+    background-color: #413F3D;
+    color: white;
+    font-family: Georgia;
+  }
+  .designB{
+    font-size: large;
+    align-content: center;
+    width: 20px;
+    height: 20px;
+  }
+.img{
+    height: 800px;
+    width: 1000px;
+    margin-left: 250px;
+    
+}
